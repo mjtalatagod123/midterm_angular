@@ -1,0 +1,28 @@
+img {
+    position: fixed;
+    left: 273px;
+    top: 208px;
+    width: 450px;
+    height: 386px;
+    border-radius: 11%;
+}
+
+.rate {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container {
+    margin-top: 50px;
+    padding: 60px;
+    border-radius: 50px;
+}
+
+h1{
+    text-align: center;
+}
+.transbox {
+    border-radius: 50px;
+    margin: auto;
+    background-color: rgba(204, 204, 204, 0.533);
+}
